@@ -15,9 +15,10 @@
 9. Conclusion
 
 ## Dashboard links
+https://raditss-bike-sharing-dasboard.streamlit.app/
 
 
-## Menjalankan Local dashboard
+## How to run Local dashboard
 1. Clone or download this repository
 2. Open the repository root folder
 3. Make sure you have python installed
