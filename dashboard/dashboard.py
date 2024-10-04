@@ -5,8 +5,8 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load data
-hourly_data = pd.read_csv('../data/hour.csv')
-daily_data = pd.read_csv('../data/day.csv')
+hourly_data = pd.read_csv('./data/hour.csv')
+daily_data = pd.read_csv('./data/day.csv')
 
 
 # Convert date columns to datetime
